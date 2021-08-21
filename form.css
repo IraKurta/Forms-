@@ -1,0 +1,48 @@
+h1 {
+margin-left: 550px;
+}
+form li {
+list-style: none;
+margin-bottom: 15px;
+}
+
+form ul li label{
+float: left;
+clear: left;
+width: 100px;
+text-align: right;
+margin-right: 10px;
+font-family: Arial;
+font-size:15px;
+}
+
+form ul li input, select, span {
+float: left;
+margin-bottom: 5px;
+}
+
+form textarea {
+float: left;
+width: 350px;
+height: 200px;
+}
+
+#knopka
+{
+clear: left;
+margin: 20px 0 0 150px;
+font-size:10px
+}
+
+#home{
+width:35%;
+height:300px;
+margin-left:25%;
+padding-left:3%;
+padding-top:6%;
+border:7px ridge green;
+font-family:Bookman;
+color:black;
+float:left;
+background-color:#778899;
+}
